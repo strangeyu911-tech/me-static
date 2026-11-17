@@ -1,29 +1,74 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0st1bvxjizck0.js"],""]
-3:I[5500,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/0st1bvxjizck0.js"],"Image"]
-4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
-a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
-b:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
-d:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
-e:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
-:HL["/_next/static/chunks/2__wl1u_hc9ip.css","style"]
+2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/1cghbb3kd79w0.js"],""]
+:HL["/sites/minedensity/openDesign-test-DddFiyAI.webp","image"]
+3:T82e,<h1>Open Design 网站项目</h1>
+<p>这是一个使用 OpenDesign 平台仅花费 1 元人民币设计开发的网站项目。该项目的 UI 设计达到了极高水准，现决定开源供广大开发者参考学习，以践行开源精神，同时也表达对 OpenDesign 平台的衷心感谢。</p>
+<h2>项目概述</h2>
+<p>本项目展示了如何利用 OpenDesign 平台以极低的成本创建出高质量的 UI 设计作品。通过开源此项目，希望能够帮助更多开发者了解和使用 OpenDesign 工具，同时也为前端设计与开发提供一个可供参考的实例。</p>
+<h2>项目链接</h2>
+<ul>
+<li><strong>代码仓库地址</strong>：<a href="https://github.com/strangeyu911-tech/OpenDesign-Test">https://github.com/strangeyu911-tech/OpenDesign-Test</a></li>
+<li><strong>在线体验页面</strong>：<a href="https://strangeyu911-tech.github.io/OpenDesign-Test/">https://strangeyu911-tech.github.io/OpenDesign-Test/</a></li>
+</ul>
+<h2>页面展示</h2>
+<h3>首页</h3>
+<p><img src="/projects/openDesign-test/Snipaste_2026-06-11_21-36-12.webp" alt="首页截图"></p>
+<h3>功能页</h3>
+<p><img src="/projects/openDesign-test/Snipaste_2026-06-11_21-36-45.webp" alt="功能页截图"></p>
+<h3>关于页</h3>
+<p><img src="/projects/openDesign-test/Snipaste_2026-06-11_21-37-05.webp" alt="关于页截图"></p>
+<h2>技术栈</h2>
+<ul>
+<li><strong>设计工具</strong>：OpenDesign</li>
+<li><strong>前端技术</strong>：HTML</li>
+<li><strong>部署平台</strong>：GitHub Pages</li>
+</ul>
+<h2>开源精神</h2>
+<p>本项目遵循开源精神，允许开发者：</p>
+<ul>
+<li>自由使用、复制和分发本项目代码</li>
+<li>基于本项目进行修改和二次开发</li>
+<li>将修改后的作品用于商业或非商业用途</li>
+</ul>
+<p>希望通过开源共享，能够促进设计与开发社区的共同进步。</p>
+<h2>致谢</h2>
+<p>特别感谢 OpenDesign 平台提供如此强大且经济实惠的设计工具，使得个人开发者也能轻松创建出专业级别的 UI 设计作品。</p>
+<h2>许可证</h2>
+<p>MIT License</p>
+<hr>
+b:X
+10:X
+10:C
+0:{"buildId":"IgLye5v7YEJ8z6D-5uGKo","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"md-site md-project-detail","children":[["$","svg",null,{"className":"sr-only","width":"0","height":"0","aria-hidden":"true","children":["$","defs",null,{"children":["$","filter",null,{"id":"sketch-border","x":"-5%","y":"-5%","width":"110%","height":"110%","children":[["$","feTurbulence",null,{"type":"fractalNoise","baseFrequency":"0.06","numOctaves":"3","seed":"7","result":"n"}],["$","feDisplacementMap",null,{"in":"SourceGraphic","in2":"n","scale":"1.5","xChannelSelector":"R","yChannelSelector":"G"}]]}]}]}],["$","nav",null,{"className":"top-nav","aria-label":"主导航","children":[["$","span",null,{"className":"top-nav-placeholder","aria-hidden":"true","children":"关于我"}],["$","span",null,{"className":"nav-dot","aria-hidden":"true"}],["$","$L2",null,{"href":"/","prefetch":false,"className":"active","children":"我的项目"}],["$","$L2",null,{"href":"/recommendations/","prefetch":false,"children":"推荐"}],["$","span",null,{"className":"nav-dot","aria-hidden":"true"}],["$","span",null,{"className":"nav-dot","aria-hidden":"true"}],["$","span",null,{"className":"nav-dot","aria-hidden":"true"}],["$","span",null,{"className":"nav-dot","aria-hidden":"true"}],["$","span",null,{"className":"nav-dot","aria-hidden":"true"}],["$","button",null,{"type":"button","className":"lang-toggle nav-lang","aria-label":"Switch to English","title":"Switch to English","aria-pressed":"false","children":[["$","span",null,{"className":"lang-option on","aria-hidden":"true","children":"中"}],["$","span",null,{"className":"lang-slash","aria-hidden":"true","children":"/"}],["$","span",null,{"className":"lang-option","aria-hidden":"true","children":"EN"}]]}]]}],["$","main",null,{"id":"main-content","className":"page","children":["$","div",null,{"className":"page-inner","children":[["$","$L2",null,{"href":"/projects/","prefetch":false,"className":"back-link","children":"← 返回作品墙"}],["$","div",null,{"className":"cover","style":{"background":"linear-gradient(135deg,"},"children":["$","img",null,{"className":"cover-img","src":"/sites/minedensity/openDesign-test-DddFiyAI.webp","alt":"Open Design UI 设计"}]}],["$","article",null,{"children":[["$","header",null,{"className":"article-header","children":[["$","span",null,{"className":"article-eyebrow","children":"项目"}],["$","h1",null,{"className":"article-title","children":"Open Design UI 设计 — 利用 OpenDesign 平台以极低的…"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":["2026"," 年"]}],["$","span",null,{"style":{"opacity":0.3},"children":"·"}],["$","span",null,{"children":"实验"}],["$","span",null,{"style":{"opacity":0.3},"children":"·"}],["$","span",null,{"children":"开源"}]]}],["$","p",null,{"className":"origin-note","children":["首发于 https://me.strangeyu.xyz · 内容指纹 ","P-0158356e"]}]]}],["$","section",null,{"className":"section","children":[["$","h2",null,{"className":"section-title","children":"概述"}],["$","div",null,{"className":"section-body","children":["$","p",null,{"children":"利用 OpenDesign 平台以极低的成本创建出高质量的 UI 设计作品."}]}]]}],["$","section",null,{"className":"section","children":[["$","div",null,{"className":"squiggle","aria-hidden":"true","children":["$","svg",null,{"viewBox":"0 0 140 10","width":"140","height":"10","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"d":"M0 5 Q25 0 50 5 Q75 10 100 5 Q125 0 140 5","stroke":"#b4c9a8","strokeWidth":"1.2","fill":"none","filter":"url(#sketch-border)"}]}]}],["$","div",null,{"className":"article-body","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],null,"$L4"]}],"$L5"]}]}],"$L6"]}],["$L7","$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$b","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[98440,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/1cghbb3kd79w0.js"],"SoundToggle"]
+18:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+:HL["/_next/static/chunks/0-cnxq2s3xyi0.css","style"]
 :HL["/_next/static/chunks/1o8to7twwgrqs.css","style"]
 :HL["/_next/static/chunks/3nhtzx3xbqswj.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap","style"]
-8:X
-10:X
-10:C
-0:{"buildId":"ZtUVsjHZLHazDDwRY8Evz","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"toy-detail","children":[["$","a",null,{"className":"toy-detail__skip","href":"#toy-content","children":"跳到项目正文"}],["$","div",null,{"className":"toy-detail__shell","children":[["$","header",null,{"className":"toy-detail__header","children":[["$","$L2",null,{"className":"toy-detail__back","href":"/projects","prefetch":false,"children":"← 返回作品花园"}],["$","span",null,{"className":"toy-detail__eyebrow","children":"送给你的小玩具"}],["$","h1",null,{"children":"Open Design UI 设计"}],null]}],["$","main",null,{"id":"toy-content","children":[["$","section",null,{"className":"toy-detail__panel","aria-label":"Open Design UI 设计 项目概览","children":[["$","$L3",null,{"className":"toy-detail__cover","src":"/sites/minedensity/openDesign-test-DddFiyAI.webp","alt":"Open Design UI 设计 项目封面","width":960,"height":540,"priority":true}],["$","div",null,{"className":"toy-detail__content","children":[["$","p",null,{"className":"toy-detail__lead","children":"利用 OpenDesign 平台以极低的成本创建出高质量的 UI 设计作品."}],["$","ul",null,{"className":"toy-detail__tags","aria-label":"项目标签","children":[["$","li","Open Design",{"className":"toy-detail__tag","children":"Open Design"}],["$","li","实验",{"className":"toy-detail__tag","children":"实验"}],["$","li","网页设计",{"className":"toy-detail__tag","children":"网页设计"}]]}],["$","div",null,{"className":"toy-detail__actions","children":[["$","a",null,{"className":"toy-detail__button","href":"https://strangeyu911-tech.github.io/OpenDesign-Test/","target":"_blank","rel":"noopener noreferrer","children":"打开 GitHub Pages"}],["$","a",null,{"className":"toy-detail__button toy-detail__button--secondary","href":"https://github.com/strangeyu911-tech/OpenDesign-Test","target":"_blank","rel":"noopener noreferrer","children":"查看 GitHub 仓库"}]]}]]}]]}],["$","section",null,{"className":"toy-detail__info","aria-labelledby":"toy-detail-info-title","children":[["$","h2",null,{"id":"toy-detail-info-title","children":"关于这个项目"}],["$","p",null,{"children":"这是「送给你的小玩具」系列中的一个独立页面。你可以从这里进入项目主页或查看源码仓库；所有对外链接都已经指向 Strange 自己的 GitHub 账号与 GitHub Pages 地址。"}]]}]]}],["$","footer",null,{"className":"toy-detail__footer","children":"© 2026 Strange 的个人网站"}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2__wl1u_hc9ip.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0st1bvxjizck0.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Open Design UI 设计 | Strange 的个人网站"}],["$","meta","1",{"name":"description","content":"利用 OpenDesign 平台以极低的成本创建出高质量的 UI 设计作品."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lb","3",{}]]}]}]}],null]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@11","staleTime":"$8","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1o8to7twwgrqs.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3nhtzx3xbqswj.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":"$L12"}]],[]]}]}]]}]]}],"isPartial":"$@13","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
-6:null
-12:["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]
-8:300
-15:true
-8:C
-14:0
-c:"$undefined"
+4:["$","section",null,{"className":"section","children":[["$","h2",null,{"className":"section-title","children":"链接"}],["$","div",null,{"className":"link-row","children":[["$","a",null,{"className":"ext-link","href":"https://strangeyu911-tech.github.io/OpenDesign-Test/","target":"_blank","rel":"noopener noreferrer","children":"GitHub Pages →"}],["$","a",null,{"className":"ext-link","href":"https://github.com/strangeyu911-tech/OpenDesign-Test","target":"_blank","rel":"noopener noreferrer","children":"GitHub 仓库 →"}]]}]]}]
+5:["$","footer",null,{"className":"site-footer","children":[["$","p",null,{"className":"site-footer__copy","children":"© 2026 Strange 的个人网站"}],["$","div",null,{"className":"site-footer__links","children":["$","a",null,{"className":"site-footer__link","href":"https://github.com/strangeyu911-tech","target":"_blank","rel":"noopener","children":"GitHub"}]}],["$","p",null,{"className":"site-footer__note","children":"本站内容仅供学习交流，转载请注明出处。"}]]}]
+6:["$","$L17",null,{"lang":"zh"}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-cnxq2s3xyi0.css","precedence":"next"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/1cghbb3kd79w0.js","async":true}]
+9:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+c:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Open Design UI 设计 — Strange 的个人网站"}],["$","meta","1",{"name":"description","content":"利用 OpenDesign 平台以极低的成本创建出高质量的 UI 设计作品."}],["$","meta","2",{"name":"robots","content":"noarchive"}],["$","link","3",{"rel":"canonical","href":"https://me.strangeyu.xyz/projects/openDesign-test/"}],["$","link","4",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","5",{}]]}]}]}],null]}]
+e:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+11:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1o8to7twwgrqs.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3nhtzx3xbqswj.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}]
+1a:null
+16:true
+b:300
+b:C
+15:0
+d:"$undefined"
 f:"$undefined"
-11:"$undefined"
-13:"$undefined"
-7:"$undefined"
+12:"$undefined"
+14:"$undefined"
+a:"$undefined"
