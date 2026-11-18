@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[43271,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2ltrneat2bw4-.js","/_next/static/chunks/2syrwzv1zafdl.js","/_next/static/chunks/1cghbb3kd79w0.js"],"DetailChrome"]
-3:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2ltrneat2bw4-.js","/_next/static/chunks/2syrwzv1zafdl.js","/_next/static/chunks/1cghbb3kd79w0.js"],""]
-:HL["/sites/minedensity/mineworld-lKSWQgfW.webp","image"]
-4:Te10,<h2>项目简介</h2>
+2:I[43271,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2ltrneat2bw4-.js","/_next/static/chunks/0auhnk16vkd05.js","/_next/static/chunks/1cghbb3kd79w0.js"],"DetailChrome"]
+3:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2ltrneat2bw4-.js","/_next/static/chunks/0auhnk16vkd05.js","/_next/static/chunks/1cghbb3kd79w0.js"],""]
+:HL["/assets/covers/mineworld.webp","image"]
+4:Te48,<h2>项目简介</h2>
 <p>这是一个使用原生 Web 技术构建的 3D 体素游戏，玩家可以在无限生成的方块世界中探索、建造和冒险。游戏支持桌面端和移动端，提供流畅的游戏体验。</p>
 <h3>在线体验</h3>
 <p>访问 GitHub Pages: <a href="https://strangeyu911-tech.github.io/MineWorld/">https://strangeyu911-tech.github.io/MineWorld/</a></p>
@@ -16,15 +16,15 @@
 </ul>
 <h2>游戏预览</h2>
 <h3>游戏界面</h3>
-<p><img src="/projects/mineworld/game.webp" alt="游戏界面"></p>
+<p><img src="/assets/projects/mineworld/game.webp" alt="游戏界面"></p>
 <h3>方块建造</h3>
-<p><img src="/projects/mineworld/build.webp" alt="方块建造"></p>
+<p><img src="/assets/projects/mineworld/build.webp" alt="方块建造"></p>
 <h3>机器人 NPC</h3>
-<p><img src="/projects/mineworld/robot.webp" alt="机器人 NPC"></p>
+<p><img src="/assets/projects/mineworld/robot.webp" alt="机器人 NPC"></p>
 <h3>Density 立墙</h3>
-<p><img src="/projects/mineworld/density.webp" alt="Density 立墙"></p>
+<p><img src="/assets/projects/mineworld/density.webp" alt="Density 立墙"></p>
 <h3>场景展示</h3>
-<p><img src="/projects/mineworld/scene.webp" alt="场景展示"></p>
+<p><img src="/assets/projects/mineworld/scene.webp" alt="场景展示"></p>
 <h2>操作说明</h2>
 <h3>桌面端</h3>
 <table>
@@ -122,9 +122,9 @@
 <h2>Star History</h2>
 <a href="https://www.star-history.com/?repos=strangeyu911-tech%2FMineWorld&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="/projects/mineworld/star-history.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="/projects/mineworld/star-history.svg" />
-   <img alt="Star History Chart" src="/projects/mineworld/star-history.svg" />
+   <source media="(prefers-color-scheme: dark)" srcset="/assets/projects/mineworld/star-history.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="/assets/projects/mineworld/star-history.svg" />
+   <img alt="Star History Chart" src="/assets/projects/mineworld/star-history.svg" />
  </picture>
 </a>
 <h2>许可证</h2>
@@ -137,7 +137,7 @@
 c:X
 11:X
 11:C
-0:{"buildId":"NH3k2IhBzvMgg1Vl9oeQa","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","div",null,{"className":"page-inner","children":[["$","$L3",null,{"href":"/projects/","prefetch":false,"className":"back-link","children":"← 返回作品墙"}],["$","div",null,{"className":"cover","style":{"background":"linear-gradient(135deg,"},"children":["$","img",null,{"className":"cover-img","src":"/sites/minedensity/mineworld-lKSWQgfW.webp","alt":"像素方块世界"}]}],["$","article",null,{"children":[["$","header",null,{"className":"article-header","children":[["$","span",null,{"className":"article-eyebrow","children":"项目"}],["$","h1",null,{"className":"article-title","children":"像素方块世界 — 一个基于 Three.js 的 3D 像…"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":["2026"," 年"]}],["$","span",null,{"style":{"opacity":0.3},"children":"·"}],["$","span",null,{"children":"游戏"}],["$","span",null,{"style":{"opacity":0.3},"children":"·"}],["$","span",null,{"children":"开源"}]]}]]}],["$","section",null,{"className":"section","children":[["$","h2",null,{"className":"section-title","children":"概述"}],["$","div",null,{"className":"section-body","children":["$","p",null,{"children":"一个基于 Three.js 的 3D 像素风格方块世界探索游戏。"}]}]]}],["$","section",null,{"className":"section","children":[["$","div",null,{"className":"squiggle","aria-hidden":"true","children":["$","svg",null,{"viewBox":"0 0 140 10","width":"140","height":"10","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"d":"M0 5 Q25 0 50 5 Q75 10 100 5 Q125 0 140 5","stroke":"#b4c9a8","strokeWidth":"1.2","fill":"none","filter":"url(#sketch-border)"}]}]}],["$","div",null,{"className":"article-body","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],null,"$L5"]}]]}]}],["$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$c","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+0:{"buildId":"9HddPz4SlGYC-fgzZ5f2i","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","div",null,{"className":"page-inner","children":[["$","$L3",null,{"href":"/projects/","prefetch":false,"className":"back-link","children":"← 返回作品墙"}],["$","div",null,{"className":"cover","style":{"background":"linear-gradient(135deg,"},"children":["$","img",null,{"className":"cover-img","src":"/assets/covers/mineworld.webp","alt":"像素方块世界"}]}],["$","article",null,{"children":[["$","header",null,{"className":"article-header","children":[["$","span",null,{"className":"article-eyebrow","children":"项目"}],["$","h1",null,{"className":"article-title","children":"像素方块世界 — 一个基于 Three.js 的 3D 像…"}],["$","div",null,{"className":"article-meta","children":[["$","span",null,{"children":["2026"," 年"]}],["$","span",null,{"style":{"opacity":0.3},"children":"·"}],["$","span",null,{"children":"游戏"}],["$","span",null,{"style":{"opacity":0.3},"children":"·"}],["$","span",null,{"children":"开源"}]]}]]}],["$","section",null,{"className":"section","children":[["$","h2",null,{"className":"section-title","children":"概述"}],["$","div",null,{"className":"section-body","children":["$","p",null,{"children":"一个基于 Three.js 的 3D 像素风格方块世界探索游戏。"}]}]]}],["$","section",null,{"className":"section","children":[["$","div",null,{"className":"squiggle","aria-hidden":"true","children":["$","svg",null,{"viewBox":"0 0 140 10","width":"140","height":"10","xmlns":"http://www.w3.org/2000/svg","children":["$","path",null,{"d":"M0 5 Q25 0 50 5 Q75 10 100 5 Q125 0 140 5","stroke":"#b4c9a8","strokeWidth":"1.2","fill":"none","filter":"url(#sketch-border)"}]}]}],["$","div",null,{"className":"article-body","dangerouslySetInnerHTML":{"__html":"$4"}}]]}],null,"$L5"]}]]}]}],["$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$c","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
 18:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
 19:"$Sreact.suspense"
 1b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
@@ -152,7 +152,7 @@ c:X
 5:["$","section",null,{"className":"section","children":[["$","h2",null,{"className":"section-title","children":"链接"}],["$","div",null,{"className":"link-row","children":[["$","a",null,{"className":"ext-link","href":"https://strangeyu911-tech.github.io/MineWorld/","target":"_blank","rel":"noopener noreferrer","children":"GitHub Pages →"}],["$","a",null,{"className":"ext-link","href":"https://github.com/strangeyu911-tech/MineWorld","target":"_blank","rel":"noopener noreferrer","children":"GitHub 仓库 →"}]]}]]}]
 6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2u2_h2fhlsdti.css","precedence":"next"}]
 7:["$","script","script-0",{"src":"/_next/static/chunks/2ltrneat2bw4-.js","async":true}]
-8:["$","script","script-1",{"src":"/_next/static/chunks/2syrwzv1zafdl.js","async":true}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/0auhnk16vkd05.js","async":true}]
 9:["$","script","script-2",{"src":"/_next/static/chunks/1cghbb3kd79w0.js","async":true}]
 a:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
 d:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"像素方块世界 — Strange 的个人网站"}],["$","meta","1",{"name":"description","content":"一个基于 Three.js 的 3D 像素风格方块世界探索游戏。"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://me.strangeyu.xyz/projects/mineworld/"}],["$","link","4",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","5",{}]]}]}]}],null]}]
